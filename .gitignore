@@ -6,7 +6,7 @@
 *.fig
 
 node_modules
-design
+*design
 
 
 # Avoid accidental XD upload if you convert the design file
